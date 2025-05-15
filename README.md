@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, malware analysis, exploit development and low-level code
 - 🌱 I’m currently learning assembly, cpp and python
 - 💞️ I’m looking to collaborate on anti-malware projects and vulnerability exposures.
-- 📫 How to reach me : t.me/@one_day_labs , instagram.com/panama_sec
+- 📫 How to reach me : https://t.me/@one_day_labs , https://instagram.com/panama_sec
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The more you know, the more you know that you know less! 
 
